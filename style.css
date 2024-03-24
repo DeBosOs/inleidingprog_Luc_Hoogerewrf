@@ -86,3 +86,27 @@ button:hover {
   transform: translate(-95%, -140%);
   font-size: 5rem;
 }
+
+.wegScherm {
+  display: none;
+}
+
+#politie {
+  width: 65%;
+}
+
+#geld {
+  width: 10%;
+}
+.winner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.winner p {
+  text-align: center;
+}
+.verborgen {
+  display: none;
+}
+
